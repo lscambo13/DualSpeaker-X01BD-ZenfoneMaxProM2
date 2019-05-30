@@ -27,7 +27,7 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
  
 Changelog:	
 
-	Fixed module not installing on Stock Pie!
+	-Fixed module not installing on Stock Pie!
 
 ------------------------------------------------------------
 
@@ -35,8 +35,8 @@ Changelog:
  
 Changelog:	
 
-	Now available on Magisk Repo
-	Magisk module fixes
+	-Now available on Magisk Repo
+	-Magisk module fixes
 
 ------------------------------------------------------------
 
@@ -44,9 +44,8 @@ Changelog:
  
 Changelog:	
 
-	1. Fixed sound distortion on high volumes
-
-	2. Improved sound quality a bit
+	-Fixed sound distortion on high volumes
+	-Improved sound quality a bit
 
 ------------------------------------------------------------
 
@@ -54,7 +53,7 @@ Changelog:
  
 Changelog:	
 	
-	Initial Public Release
+	-Initial Public Release
 
 ------------------------------------------------------------
 
@@ -62,7 +61,7 @@ Changelog:
 
 Changelog:	
 
-	Increased volume a bit
+	-Increased volume a bit
 
 -----------------------------------------------------------
 
@@ -70,7 +69,7 @@ Changelog:
 
 Changelog:	
 	
-	Enable Mono on receiver speaker (testing)
+	-Enable Mono on receiver speaker (testing)
 
 -----------------------------------------------------------
 
@@ -78,7 +77,7 @@ Changelog:
 
 Changelog: 	
 	
-	First Build
+	-First Build
 
 -----------------------------------------------------------</br>
 
