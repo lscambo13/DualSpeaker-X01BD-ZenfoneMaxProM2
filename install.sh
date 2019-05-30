@@ -124,8 +124,8 @@ print_modname() {
   ui_print "+    Asus Zenfone Max pro M2 (X01BD)     +"
   ui_print "+________________________________________+"
   ui_print "+         By lscambo13 & Dante63         +"
-  ui_print "+---------- Version : 1.2 BETA ----------+"
-  ui_print "+-------------- 29/05/2019 --------------+"
+  ui_print "+---------- Version : 1.3 BETA ----------+"
+  ui_print "+-------------- 30/05/2019 --------------+"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
@@ -133,11 +133,23 @@ print_modname() {
 on_install() {
   # The following is the default implementation: extract $ZIPFILE/system to $MODPATH
   # Extend/change the logic to whatever you want
-if [[ $(getprop ro.product.device | grep .. || getprop ro.build.product) == X01BD ]] && [[ $API -ge 28 ]]; then
+if [[ $(getprop ro.product.device) == X01BD ]]; then
+  ui_print "Supported device found. Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+elif [[ $(getprop ro.product.device) == X01BDA ]]; then
+  ui_print "Supported device found. Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+elif [[ $(getprop ro.product.device) == ASUS_X01BDA_2 ]]; then
+  ui_print "Supported device found. Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+elif [[ $(getprop ro.product.device) == ASUS_X01BDA_1 ]]; then
+  ui_print "Supported device found. Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+elif [[ $(getprop ro.product.device) == ASUS_X01BDA ]]; then
   ui_print "Supported device found. Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 else
-	cancel "Unsupported Device or API!"
+	cancel "Unsupported Device!"
   fi
 }
 
