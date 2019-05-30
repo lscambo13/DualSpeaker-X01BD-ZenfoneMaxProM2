@@ -23,7 +23,7 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 
 ------------------------------------------------------------</br>
 
-Update: v1.3-beta
+<strong>Update: v1.3-beta</strong>
  
 Changelog:	
 
@@ -31,7 +31,7 @@ Changelog:
 
 ------------------------------------------------------------
 
-Update: v1.2-beta
+<strong>Update: v1.2-beta</strong>
  
 Changelog:	
 
@@ -40,7 +40,7 @@ Changelog:
 
 ------------------------------------------------------------
 
-Update: v1.1-beta
+<strong>Update: v1.1-beta</strong>
  
 Changelog:	
 
@@ -50,7 +50,7 @@ Changelog:
 
 ------------------------------------------------------------
 
-Update: v1.0
+<strong>Update: v1.0</strong>
  
 Changelog:	
 	
@@ -58,7 +58,7 @@ Changelog:
 
 ------------------------------------------------------------
 
-Update: v0.3 (Closed Beta)
+<strong>Update: v0.3 (Closed Beta)</strong>
 
 Changelog:	
 
@@ -66,7 +66,7 @@ Changelog:
 
 -----------------------------------------------------------
 
-Update: v0.2 (Closed Beta)
+<strong>Update: v0.2 (Closed Beta)</strong>
 
 Changelog:	
 	
@@ -74,7 +74,7 @@ Changelog:
 
 -----------------------------------------------------------
 
-Update: v0.1 (Closed Beta)
+<strong>Update: v0.1 (Closed Beta)</strong>
 
 Changelog: 	
 	
@@ -82,7 +82,7 @@ Changelog:
 
 -----------------------------------------------------------</br>
 
-To-Do:	v2.x
+<strong>To-Do:	v2.x</strong>
 
 	Add support for more devices (maybe land?)
 
