@@ -1,10 +1,9 @@
 ![COVER](https://github.com/lscambo13/DualSpeaker-X01BD-ZenfoneMaxProM2/raw/master/images/github-dualspeaker-x01bd-cover-image.png)
-<h1>DualSpeaker Mod for Asus Zenfone Max pro M2</h1>
-<h4>(X01BD / X01BDA)</h4>
-<h4>Latest version: 1.3 BETA (02/06/2019)</h4>
-------------------------------------------------------------</br>
+<h4>DualSpeaker Mod for Asus Zenfone Max pro M2 (X01BD / X01BDA)</h4>
+<h5>Latest version: 1.3 BETA (02/06/2019)</h5></br>
 
 <code>Author: [lscambo13](https://forum.xda-developers.com/member.php?u=5544960) @ xda-developers</code></br>
+
 <code>Special Thanks: [Dante63](https://forum.xda-developers.com/member.php?u=7047928) @ xda-developers</code></br>
 
 #### Please leave a Thanks ❤ on your way out.
