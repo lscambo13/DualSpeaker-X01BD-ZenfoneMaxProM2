@@ -136,13 +136,13 @@ on_install() {
 if [[ $(getprop ro.product.device) == X01BD ]]; then
   ui_print "Supported device found. Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+elif [[ $(getprop ro.product.device) == ASUS_X01BD ]]; then
+  ui_print "Supported device found. Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 elif [[ $(getprop ro.product.device) == X01BDA ]]; then
   ui_print "Supported device found. Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
-elif [[ $(getprop ro.product.device) == ASUS_X01BDA_2 ]]; then
-  ui_print "Supported device found. Installing..."
-	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
-elif [[ $(getprop ro.product.device) == ASUS_X01BDA_1 ]]; then
+elif [[ $(getprop ro.product.device) == ASUS_X01BD_2 ]]; then
   ui_print "Supported device found. Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 elif [[ $(getprop ro.product.device) == ASUS_X01BDA ]]; then
