@@ -29,7 +29,7 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 <h3>Known Bugs:</h3>
 No in-call sound when you receive a call in ringer mode
 
-(Solution- Turn the loudspeaker ON and OFF. Voila!)
+(<strong>Solution</strong>- Turn the loudspeaker ON and OFF. Voila!)
 
 ------------------------------------------------------------</br>
 
