@@ -98,4 +98,4 @@ Changelog:
 
 
 -----------------------------------------------------------</br>
-<h3>Please report bugs on my XDA Support Thread:</h3> <a href="https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610">https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610</a>
+<h3>Please report bugs on my XDA support thread:</h3> <a href="https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610">https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610</a>
