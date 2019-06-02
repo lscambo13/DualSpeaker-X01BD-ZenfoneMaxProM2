@@ -1,4 +1,3 @@
-# DualSpeaker-X01BD
 <h1>DualSpeaker Mod for Asus Zenfone Max pro M2</h1>
 <h4>(X01BD / X01BDA)</h4>
 <h4>Latest version: 1.3 BETA (02/06/2019)</h4>
