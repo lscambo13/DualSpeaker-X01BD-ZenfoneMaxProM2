@@ -1,9 +1,12 @@
 # DualSpeaker-X01BD
 <h1>DualSpeaker Mod for Asus Zenfone Max pro M2 (X01BD/ZB630KL)</h1>
-<align="center">------------------------------------------------------------</align></br>
-<code>Author: lscambo13 @ xda-developers</code></br>
-<code>Special Thanks: Dante63 @ xda-developers</code>
+<h4>Latest version: 1.3 BETA (02/06/2019)</h4>
+------------------------------------------------------------</br>
 
+<code>Author: [lscambo13](https://forum.xda-developers.com/member.php?u=5544960) @ xda-developers</code></br>
+<code>Special Thanks: [Dante63](https://forum.xda-developers.com/member.php?u=7047928) @ xda-developers</code></br>
+
+#### Please leave a Thanks ❤ on your way out.
 
 <h3>Disclaimer:</h3>	By installing this module you agree that I
 		shall not not be held responsible for any
@@ -23,11 +26,19 @@ Tested on HavocOS 2.5; Expected to work on stock rom as well
 
 ------------------------------------------------------------</br>
 
+<h3>Known Bugs:</h3>
+No in-call sound when you receive a call in ringer mode
+
+(Solution- Turn the loudspeaker ON and OFF. Voila!)
+
+------------------------------------------------------------</br>
+
 <strong>Update: v1.3-beta</strong>
  
 Changelog:	
 
-	-Fixed module not installing on Stock Pie!
+	-Fixed module failing to install on Stock Pie!
+	(If you are still facing issues, try installing the module from TWRP.)
 
 ------------------------------------------------------------
 
@@ -87,4 +98,4 @@ Changelog:
 
 
 -----------------------------------------------------------</br>
-<h3>XDA Support Thread:</h3> <a herf="https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610">https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610</a>
+<h3>Please report bugs on my XDA Support Thread:</h3> <a href="https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610">https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610</a>
