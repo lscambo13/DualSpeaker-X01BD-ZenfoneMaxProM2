@@ -124,8 +124,8 @@ print_modname() {
   ui_print "+    Asus Zenfone Max pro M2 (X01BD)     +"
   ui_print "+________________________________________+"
   ui_print "+         By lscambo13 & Dante63         +"
-  ui_print "+---------- Version : 1.3 BETA ----------+"
-  ui_print "+-------------- 02/06/2019 --------------+"
+  ui_print "+------------- Version: 1.4 -------------+"
+  ui_print "+-------------- 03/06/2019 --------------+"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
