@@ -1,37 +1,56 @@
 ![COVER](https://github.com/lscambo13/DualSpeaker-X01BD-ZenfoneMaxProM2/raw/master/images/github-dualspeaker-x01bd-cover-image.png)
-<h4>DualSpeaker Mod for Asus Zenfone Max pro M2 (X01BD / X01BDA)</h4>
-<h5>Latest version: 1.3 BETA (02/06/2019)</h5></br>
+<h3>DualSpeaker Mod for Asus Zenfone Max Pro M2</h3>
+<h5>(X01BD / X01BDA)</h5>
+<h5>Latest version: 1.4 (03/06/2019)</h5>
+</br>
 
 <code>Author: [lscambo13](https://forum.xda-developers.com/member.php?u=5544960) @ xda-developers</code></br>
 
 <code>Special Thanks: [Dante63](https://forum.xda-developers.com/member.php?u=7047928) @ xda-developers</code></br>
 
 #### Please leave a Thanks ❤ on your way out.
+</br>
 
-<h3>Disclaimer:</h3>	By installing this module you agree that I
-		shall not not be held responsible for any
-		sort of damage caused to your phone's
-		hardware or to your ears for that matter.
+<code><strong>Disclaimer:</strong></code>
+
+<code>By installing this module you agree that I
+shall not not be held responsible for any
+sort of damage caused to your phone's
+hardware or to your ears for that matter.
 		
-						PROCEED AT YOUR OWN RISK!!
+PROCEED AT YOUR OWN RISK!!</code>
+
 ------------------------------------------------------------</br>
 
-<h3>Description:</h3>
+<strong>Description:</strong>
 
 Systemless Way of Enabling DualSpeaker/PseudoStereo SoundMod 
-for Asus Zenfone Max pro M2 (X01BD).
+for Asus Zenfone Max Pro M2 (X01BD).
 
-Tested on HavocOS 2.5; Expected to work on stock rom as well
-(Further testing still needed).
+Tested on HavocOS 2.5; reported working on Stock Pie as well.
+When reporting any bug or issue, make sure to mention which rom 
+you are using.
+
+------------------------------------------------------------</br>
+
+<strong>Known Bugs:</strong>
+
+<strike>No in-call sound when you receive a call in ringer mode
+(<strong>Solution</strong>- Turn the loudspeaker ON and OFF. Voila!)</strike>
+
+You tell me:)
 
 ------------------------------------------------------------</br>
 
-<h3>Known Bugs:</h3>
-No in-call sound when you receive a call in ringer mode
+<strong>Update: v1.4</strong>
+ 
+Changelog:	
 
-(<strong>Solution</strong>- Turn the loudspeaker ON and OFF. Voila!)
+	-Stable 1.4 release
+	-Fixed in-call audio bug
+	-Magisk module cleanup
 
-------------------------------------------------------------</br>
+------------------------------------------------------------
 
 <strong>Update: v1.3-beta</strong>
  
@@ -98,4 +117,4 @@ Changelog:
 
 
 -----------------------------------------------------------</br>
-<h3>Please report bugs on my XDA support thread:</h3> <a href="https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610">https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610</a>
+<h4>Please report bugs on my XDA support thread:</h4> <a href="https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610">https://forum.xda-developers.com/max-pro-m2/themes/soundmod-dualspeaker-x01bd-t3933610</a>
