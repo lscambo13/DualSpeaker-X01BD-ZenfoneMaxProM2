@@ -121,11 +121,12 @@ REPLACE="
 print_modname() {
   ui_print "+----------------------------------------+"
   ui_print "+          -<DualSpeaker Mod>-           +"
-  ui_print "+    Asus Zenfone Max pro M2 (X01BD)     +"
+  ui_print "+    Asus Zenfone Max Pro M1 (X00TD)     +"
+  ui_print "+    Asus Zenfone Max Pro M2 (X01BD)     +"
   ui_print "+________________________________________+"
   ui_print "+         By lscambo13 & Dante63         +"
-  ui_print "+------------- Version: 1.4 -------------+"
-  ui_print "+-------------- 03/06/2019 --------------+"
+  ui_print "+------------- Version: 2.x -------------+"
+  ui_print "+-------------- 04/06/2019 --------------+"
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
@@ -134,19 +135,31 @@ on_install() {
   # The following is the default implementation: extract $ZIPFILE/system to $MODPATH
   # Extend/change the logic to whatever you want
 if [[ $(getprop ro.product.device) == X01BD ]]; then
-  ui_print "Supported device found. Installing..."
+  ui_print "Supported device found (X01BD). Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 elif [[ $(getprop ro.product.device) == ASUS_X01BD ]]; then
-  ui_print "Supported device found. Installing..."
+  ui_print "Supported device found (X01BD). Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 elif [[ $(getprop ro.product.device) == X01BDA ]]; then
-  ui_print "Supported device found. Installing..."
+  ui_print "Supported device found (X01BD). Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 elif [[ $(getprop ro.product.device) == ASUS_X01BD_2 ]]; then
-  ui_print "Supported device found. Installing..."
+  ui_print "Supported device found (X01BD). Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 elif [[ $(getprop ro.product.device) == ASUS_X01BDA ]]; then
-  ui_print "Supported device found. Installing..."
+  ui_print "Supported device found (X01BD). Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+if [[ $(getprop ro.product.device) == X00TD ]]; then
+  ui_print "Supported device found (X00TD). Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+elif [[ $(getprop ro.product.device) == ASUS_X00TD ]]; then
+  ui_print "Supported device found (X00TD). Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+if [[ $(getprop ro.product.device) == X00T ]]; then
+  ui_print "Supported device found (X00TD). Installing..."
+	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+elif [[ $(getprop ro.product.device) == ASUS_X00T ]]; then
+  ui_print "Supported device found (X00TD). Installing..."
 	unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 else
 	cancel "Unsupported Device!"
